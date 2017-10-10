@@ -8,7 +8,7 @@ Cube - [Source](https://github.com/muabe/Samples/blob/master/propose_cube/src/co
 
 Graph - [Source](https://github.com/muabe/Samples/blob/master/propose_graphtest/src/com/example/graphtest/MainActivity.java) | Sliding menu - [Source](https://github.com/muabe/Samples/blob/master/sldingmenu/src/com/markjmind/propose/sample/slidingmenu/MainActivity.java)
 ---|---
-[![3D_fliper](https://github.com/muabe/Samples/blob/master/images/graph2.gif)](https://github.com/muabe/Samples/blob/master/propose_graphtest/src/com/example/graphtest/MainActivity.java) | [![](https://github.com/muabe/Samples/blob/master/images/sliding menu.gif)](https://github.com/muabe/Samples/blob/master/sldingmenu/src/com/markjmind/propose/sample/slidingmenu/MainActivity.java)
+[![3D_fliper](https://github.com/muabe/Samples/blob/master/images/graph2.gif)](https://github.com/muabe/Samples/blob/master/propose_graphtest/src/com/example/graphtest/MainActivity.java) | [![](https://github.com/muabe/Samples/blob/master/images/sliding_menu.gif)](https://github.com/muabe/Samples/blob/master/sldingmenu/src/com/markjmind/propose/sample/slidingmenu/MainActivity.java)
 
 <br>
 
