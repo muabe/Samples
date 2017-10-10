@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/pager_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/shape_alpha3" >
+
+        <FrameLayout
+            android:id="@+id/right_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/i2" >
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/left_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/i3" >
+
+            <LinearLayout
+                android:id="@+id/left_img_lyt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="right"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/img_lyt1"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="100dp"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <com.example.cubepager.CircleImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/me" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Jae"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textColor="#607d8b" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/img_lyt2"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <com.example.cubepager.CircleImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/son" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Jun"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textColor="#607d8b" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/img_lyt3"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <com.example.cubepager.CircleImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/wife" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Jo-Jo"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textColor="#607d8b" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/img_lyt4"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <com.example.cubepager.CircleImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/yd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="YD-Lee"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textColor="#607d8b" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="40dp"
+                android:text="Favorites"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/main_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/i1" >
+
+            <LinearLayout
+                android:id="@+id/main_img_lyt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="right"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@id/img_lyt1"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="100dp"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <com.example.cubepager.CircleImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/me" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Jae"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textColor="#607d8b" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@id/img_lyt2"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <com.example.cubepager.CircleImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/son" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Jun"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textColor="#607d8b" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@id/img_lyt3"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <com.example.cubepager.CircleImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/wife" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Jo-Jo"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textColor="#607d8b" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@id/img_lyt4"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <com.example.cubepager.CircleImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/yd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="YD-Lee"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textColor="#607d8b" />
+                </LinearLayout>
+            </LinearLayout>
+
+        </FrameLayout>
+
+    </FrameLayout>
+
+</LinearLayout>

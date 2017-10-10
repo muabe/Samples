@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#900</color>
+    <color name="green">#090</color>
+    <color name="blue">#009</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="sky">#39AED8</color>
+    <color name="gray">#808080</color>
+    <color name="clear_color">#00000000</color>
+    <color name="font1_d">#176994</color>
+    <color name="font2_d">#176994</color>
+    <color name="alpha_white">#00ffffff</color>
+    <color name="alpha_gray">#333333</color>
+    <color name="alpha_black">#77111111</color>
+    <color name="left_menu">#000000ff</color>
+    <color name="left_menu_selected">#666666ff</color>
+    <color name="dark_green_step_stat">#1699a5</color>
+    <color name="dark_blue_step_stat">#1c8fbe</color>
+    <color name="very_light_gray_step_stat">#edf1f2</color>
+    <color name="light_blue_step_stat">#30ceeb</color>
+    
+    <color name="pressed">#460987D1</color>
+    <drawable name="list_press">#b3b3b3</drawable>
+    <drawable name="list_nor">#ffffff</drawable>
+
+    <drawable name="item_pressed">#b3b3b3</drawable>
+    <drawable name="item_normal">#ffffff</drawable>
+    
+    <drawable name="inbody_title_press">#299ecc</drawable>
+    <drawable name="inbody_title_normal">#80dbff</drawable>
+    <color name="inbody_plus">#ff3849</color>
+    <color name="inbody">#549d00</color>
+    <color name="inbody_minus">#1483cc</color>
+    
+    <color name="setting_item_normal">#FFFFFF</color>
+    <color name="setting_item_pressed">#E5E5E5</color>
+    
+    <color name="asia">#cc9c00</color>
+    <color name="europe">#3399ff</color>
+    <color name="africa">#5c6266</color>
+    <color name="america">#e55c5c</color>
+    <color name="oceania">#77b200</color>
+    <color name="class_line">#b3b3b3</color>
+    <color name="transparent">#00000000</color>
+</resources>

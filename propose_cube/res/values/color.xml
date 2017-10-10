@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="white">#ffffff</color>
+<color name="black">#000000</color>
+<color name="default_bgcolor">#F9ECD2</color>
+<color name="clear_color">#00000000</color>
+<color name="gray">#454545</color>
+<color name="alpha_gray">#33333333</color>
+<color name="yellow">#ffff00</color>
+<color name="menu_sel">#1f1f1e</color>
+<color name="menu_nonsel">#454545</color>
+<color name="gray_row">#e5e5e5</color>
+<color name="btn_txt_color1">#4d4d4d</color>
+<color name="btn_txt_color2">#c1c1c1</color>
+<color name="border_title">#cbc9c4</color>
+<color name="alpha_white">#33e1e1d2</color>
+<color name="alpha_yellow">#33ffff00</color>
+<color name="btn_txt_defalut">#191108</color>
+<color name="yellow_tab">#e3cf75</color>
+<color name="tab_line">#A66D60</color>
+<color name="yellow_tab2">#E9E698</color>
+<color name="btn_txt_color3">#4D2807</color>
+<color name="gray2">#4B5155</color>
+<color name="alpha_sky">#3339AED8</color>
+<color name="alpha_pink">#33DA265B</color>
+<color name="human">#FFEED4</color>
+<color name="gray3">#C6C9CD</color>
+<color name="gray4">#8A9197</color>
+<color name="alpha_black">#77111111</color>
+<color name="btn_txt_color4">#A45E5E</color>
+<color name="alpha_pink2">#99EA675F</color>
+<color name="human2">#D4AA78</color>
+<color name="alpha_human2">#55D4AA78</color>
+<color name="alpha_human">#55FFEED4</color>
+<color name="btn_txt_color5">#FDDEC0</color>
+<color name="btn_txt_color7">#B5514E</color>
+<color name="btn_txt_color8">#7B2A2A</color>
+
+
+<color name="pink">#DA265B</color>
+<color name="blue">#0d3558</color>
+<color name="sky">#39AED8</color>
+<color name="deep_sky">#2ea1c0</color>
+
+
+</resources>
