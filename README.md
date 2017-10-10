@@ -1,4 +1,4 @@
-# Samples
+# Sample Code
 
 Cube - [Source](https://github.com/muabe/Samples/blob/master/propose_cube/src/com/example/test/MainActivity.java) | Moving view - [Source](https://github.com/muabe/Samples/blob/master/moving_view/src/com/markjmind/sample/propose/moving/MainActivity.java)
 ---|---
